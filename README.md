@@ -1,2 +1,2 @@
-# Calculator
+# Calculadora
 My HTML and JS Calculator
