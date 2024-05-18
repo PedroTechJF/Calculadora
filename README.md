@@ -1,7 +1,7 @@
 
 # Calculadora
 
-Uma simples calculadora para uso diário, com cálculos de soma, subtração, multiplicação, divisão, porcentagem e raiz quadrada. A maioria dos cálculos podem ser realizados utilizando números negativos. Além disso, conta com todo um sistema de personalização, com 8 temas que o usuário pode escolher de acordo com sua preferência.
+Uma simples calculadora para uso diário, com cálculos de soma, subtração, multiplicação, divisão, porcentagem e raiz quadrada. A maioria dos cálculos podem ser realizados utilizando números negativos. Além disso, conta com todo um sistema de personalização, com 8 temas que o usuário pode escolher de acordo com sua preferência e histórico de cálculos.
 
 
 ## Funcionalidades
@@ -13,6 +13,7 @@ Uma simples calculadora para uso diário, com cálculos de soma, subtração, mu
 - Porcentagem
 - Raiz Quadrada
 - Escolha de 8 temas exclusivos
+- Histórico de Cálculos
 
 ## Temas
 
