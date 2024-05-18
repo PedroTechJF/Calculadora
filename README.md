@@ -30,5 +30,5 @@ Uma simples calculadora para uso diário, com cálculos de soma, subtração, mu
 
 ## Licença
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/PedroTechJF/Calculadora/blob/main/LICENSE)
 
